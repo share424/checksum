@@ -1,0 +1,7 @@
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\bin\Release\Checksum.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\bin\Release\Checksum.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\obj\x86\Release\Checksum.Form1.resources
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\obj\x86\Release\Checksum.Properties.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\obj\x86\Release\Checksum.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\obj\x86\Release\Checksum.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\obj\x86\Release\Checksum.pdb

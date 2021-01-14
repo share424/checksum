@@ -1,0 +1,15 @@
+C:\Users\USER\AppData\Local\Temporary Projects\Checksum\bin\Debug\Checksum.exe
+C:\Users\USER\AppData\Local\Temporary Projects\Checksum\bin\Debug\Checksum.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\Checksum\obj\x86\Debug\Checksum.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\Checksum\obj\x86\Debug\Checksum.Properties.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\Checksum\obj\x86\Debug\Checksum.csproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\Checksum\obj\x86\Debug\Checksum.exe
+C:\Users\USER\AppData\Local\Temporary Projects\Checksum\obj\x86\Debug\Checksum.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\obj\x86\Debug\Checksum.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\obj\x86\Debug\Checksum.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\bin\Debug\Checksum.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\bin\Debug\Checksum.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\obj\x86\Debug\Checksum.Form1.resources
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\obj\x86\Debug\Checksum.Properties.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\obj\x86\Debug\Checksum.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2010\Projects\Checksum\Checksum\obj\x86\Debug\Checksum.csprojResolveAssemblyReference.cache
